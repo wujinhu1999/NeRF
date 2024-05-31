@@ -8,7 +8,7 @@ process
     ...
 |-- output
 |-- template
-    |-- template.png
+    |-- template.jpg
 ```
 Use the template matching method `matchTemplate` in `opencv` to intercept the `roi`.Before and after comparison is as follows：
 
